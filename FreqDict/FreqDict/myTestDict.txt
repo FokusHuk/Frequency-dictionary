@@ -1,0 +1,6 @@
+dictionary 2
+end 1
+example 1
+new 1
+of 1
+word 3

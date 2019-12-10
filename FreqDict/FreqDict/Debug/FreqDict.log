@@ -1,0 +1,18 @@
+﻿  ChangeDictionaryForm.cpp
+  CreateDictTextForm.cpp
+  CreateNewDictionaryForm.cpp
+  DictionaryRedactorForm.cpp
+c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): warning C4490: override: неправильное использование спецификатора переопределения; "DictWord::CompareTo" не соответствует методу базового класса-ссылки
+  c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): note: "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): note: Соответствующий базовый метод "System::IComparable::CompareTo" происходит из класса интерфейса (а не класса ref)
+  DictWord.cpp
+c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): warning C4490: override: неправильное использование спецификатора переопределения; "DictWord::CompareTo" не соответствует методу базового класса-ссылки
+  c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): note: "new" или "override" разрешены только, когда существует соответствующий базовый метод из класса ref
+  c:\users\ilya axenov\source\repos\freqdict\freqdict\dictword.h(13): note: Соответствующий базовый метод "System::IComparable::CompareTo" происходит из класса интерфейса (а не класса ref)
+  FDict.cpp
+  FindWordForm.cpp
+  RenameDictionaryForm.cpp
+  ShowTextOfDictionaryForm.cpp
+  Создание кода...
+  ChangeDictionaryForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FreqDict.vcxproj -> C:\Users\Ilya Axenov\source\repos\FreqDict\Debug\FreqDict.exe

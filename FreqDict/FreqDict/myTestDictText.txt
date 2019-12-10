@@ -1,0 +1,6 @@
+new dictionary
+word
+word
+word
+example
+end of dictionary
